@@ -1,11 +1,17 @@
-# 👋 Olá, eu sou o @kevendasilva
+# 👋 Olá, eu sou o Keven
 
-Meu principal objetivo de estudo é o desenvolvimento de sistemas distribuídos (arquiteturas e tecnologias). Tenho interesse por diversas tecnologias e estou atualmente estudando JavaScript e algumas bibliotecas e frameworks, como React e Express, por exemplo.
+## 💻 Sobre mim
+
+Sou um entusiasta do desenvolvimento de sistemas distribuídos, com foco em arquiteturas escaláveis e tecnologias modernas. Tenho experiência com diversas tecnologias e, atualmente, estou aprofundando meus conhecimentos em Ruby on Rails, Java e Vue.js.\
+\
+📌 Sempre em busca de novos desafios e aprendizados!
 
 <div align="center">
   <img  src="github.png" style="height: 240px; width: auto;">
 </div>
 
-Veja mais sobre mim no [meu portfólio](https://kevendasilva.github.io/portfolio/).
+## 🚀 Onde me encontrar
 
-Criei um [blog](https://kevendasilva.github.io/blog/), onde eu vou postar sobre algumas tecnologias que estou estudando e projetos que estou desenvolvendo.
+🔗 Veja mais sobre mim no [meu portfólio](https://kevendasilva.github.io/portfolio/).\
+✍️ Escrevo sobre minhas descobertas e projetos no meu [blog](https://kevendasilva.github.io/blog/).\
+📫 Entre em contato comigo pelo [LinkedIn](http://www.linkedin.com/in/keven-da-silva-gonçalves).
